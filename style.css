@@ -134,7 +134,7 @@ img {
 }
 
 /* Info */
-.Info {
+.info {
   background: var(--primary);
   box-shadow: var(--shadow);
   display: grid;
